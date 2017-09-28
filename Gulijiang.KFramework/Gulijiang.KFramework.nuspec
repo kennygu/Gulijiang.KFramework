@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0.html</licenseUrl>
+    <projectUrl>https://github.com/kennygu/Gulijiang.KFramework</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Gulijiang.KFramework is a common collection of methods</description>
+    <releaseNotes>kenny gu  release.</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>Util</tags>
+  </metadata>
+</package>

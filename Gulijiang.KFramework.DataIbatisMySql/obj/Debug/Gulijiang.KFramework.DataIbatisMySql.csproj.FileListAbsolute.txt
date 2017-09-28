@@ -1,0 +1,16 @@
+E:\KennyShoery\My\Gulijiang\Gulijiang.KFramework\Gulijiang.KFramework.DataIbatisMySql\bin\Debug\Gulijiang.KFramework.DataIbatisMySql.dll
+E:\KennyShoery\My\Gulijiang\Gulijiang.KFramework\Gulijiang.KFramework.DataIbatisMySql\bin\Debug\Gulijiang.KFramework.DataIbatisMySql.pdb
+E:\KennyShoery\My\Gulijiang\Gulijiang.KFramework\Gulijiang.KFramework.DataIbatisMySql\bin\Debug\IBatisNet.Common.dll
+E:\KennyShoery\My\Gulijiang\Gulijiang.KFramework\Gulijiang.KFramework.DataIbatisMySql\bin\Debug\IBatisNet.DataAccess.dll
+E:\KennyShoery\My\Gulijiang\Gulijiang.KFramework\Gulijiang.KFramework.DataIbatisMySql\bin\Debug\IBatisNet.DataMapper.dll
+E:\KennyShoery\My\Gulijiang\Gulijiang.KFramework\Gulijiang.KFramework.DataIbatisMySql\obj\Debug\Gulijiang.KFramework.DataIbatisMySql.dll
+E:\KennyShoery\My\Gulijiang\Gulijiang.KFramework\Gulijiang.KFramework.DataIbatisMySql\obj\Debug\Gulijiang.KFramework.DataIbatisMySql.pdb
+E:\KennyShoery\My\Gulijiang\Gulijiang.KFramework\Gulijiang.KFramework.DataIbatisMySql\obj\Debug\Gulijiang.KFramework.DataIbatisMySql.csprojResolveAssemblyReference.cache
+E:\KennySheory\My\Gulijiang\Gulijiang.KFramework\Gulijiang.KFramework.DataIbatisMySql\bin\Debug\Gulijiang.KFramework.DataIbatisMySql.dll
+E:\KennySheory\My\Gulijiang\Gulijiang.KFramework\Gulijiang.KFramework.DataIbatisMySql\bin\Debug\Gulijiang.KFramework.DataIbatisMySql.pdb
+E:\KennySheory\My\Gulijiang\Gulijiang.KFramework\Gulijiang.KFramework.DataIbatisMySql\bin\Debug\IBatisNet.Common.dll
+E:\KennySheory\My\Gulijiang\Gulijiang.KFramework\Gulijiang.KFramework.DataIbatisMySql\bin\Debug\IBatisNet.DataAccess.dll
+E:\KennySheory\My\Gulijiang\Gulijiang.KFramework\Gulijiang.KFramework.DataIbatisMySql\bin\Debug\IBatisNet.DataMapper.dll
+E:\KennySheory\My\Gulijiang\Gulijiang.KFramework\Gulijiang.KFramework.DataIbatisMySql\obj\Debug\Gulijiang.KFramework.DataIbatisMySql.csprojResolveAssemblyReference.cache
+E:\KennySheory\My\Gulijiang\Gulijiang.KFramework\Gulijiang.KFramework.DataIbatisMySql\obj\Debug\Gulijiang.KFramework.DataIbatisMySql.dll
+E:\KennySheory\My\Gulijiang\Gulijiang.KFramework\Gulijiang.KFramework.DataIbatisMySql\obj\Debug\Gulijiang.KFramework.DataIbatisMySql.pdb

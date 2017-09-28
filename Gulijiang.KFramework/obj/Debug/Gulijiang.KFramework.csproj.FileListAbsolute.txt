@@ -1,0 +1,14 @@
+c:\users\kennygu\documents\visual studio 2013\Projects\Gulijiang.KFramework\Gulijiang.KFramework\obj\Debug\Gulijiang.KFramework.csprojResolveAssemblyReference.cache
+E:\KennyShoery\My\Gulijiang\Gulijiang.KFramework\Gulijiang.KFramework\bin\Debug\Gulijiang.KFramework.dll
+E:\KennyShoery\My\Gulijiang\Gulijiang.KFramework\Gulijiang.KFramework\bin\Debug\Gulijiang.KFramework.pdb
+E:\KennyShoery\My\Gulijiang\Gulijiang.KFramework\Gulijiang.KFramework\bin\Debug\Memcached.ClientLibrary.dll
+E:\KennyShoery\My\Gulijiang\Gulijiang.KFramework\Gulijiang.KFramework\bin\Debug\Newtonsoft.Json.dll
+E:\KennyShoery\My\Gulijiang\Gulijiang.KFramework\Gulijiang.KFramework\obj\Debug\Gulijiang.KFramework.dll
+E:\KennyShoery\My\Gulijiang\Gulijiang.KFramework\Gulijiang.KFramework\obj\Debug\Gulijiang.KFramework.pdb
+E:\KennyShoery\My\Gulijiang\Gulijiang.KFramework\Gulijiang.KFramework\obj\Debug\Gulijiang.KFramework.csprojResolveAssemblyReference.cache
+E:\KennySheory\My\Gulijiang\Gulijiang.KFramework\Gulijiang.KFramework\bin\Debug\Gulijiang.KFramework.dll
+E:\KennySheory\My\Gulijiang\Gulijiang.KFramework\Gulijiang.KFramework\bin\Debug\Gulijiang.KFramework.pdb
+E:\KennySheory\My\Gulijiang\Gulijiang.KFramework\Gulijiang.KFramework\bin\Debug\Memcached.ClientLibrary.dll
+E:\KennySheory\My\Gulijiang\Gulijiang.KFramework\Gulijiang.KFramework\bin\Debug\Newtonsoft.Json.dll
+E:\KennySheory\My\Gulijiang\Gulijiang.KFramework\Gulijiang.KFramework\obj\Debug\Gulijiang.KFramework.dll
+E:\KennySheory\My\Gulijiang\Gulijiang.KFramework\Gulijiang.KFramework\obj\Debug\Gulijiang.KFramework.pdb

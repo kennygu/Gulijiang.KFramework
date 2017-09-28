@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1E6808A8-402B-468B-83A8-2B6BEC54FD7E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Gulijiang.KFramework</RootNamespace>
+    <AssemblyName>Gulijiang.KFramework</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Memcached.ClientLibrary">
+      <HintPath>..\packages\Memcached.ClientLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Common\DESEncrypt.cs" />
+    <Compile Include="Common\EncryptHelper.cs" />
+    <Compile Include="Common\PinyinHelper.cs" />
+    <Compile Include="Common\Utility.cs" />
+    <Compile Include="Extensions\DateTimeExtensions.cs" />
+    <Compile Include="Extensions\StringExtensions.cs" />
+    <Compile Include="HttpRequest\Common\AsyncCallback.cs" />
+    <Compile Include="HttpRequest\Common\AsyncCallResult.cs" />
+    <Compile Include="HttpRequest\Common\BooleanResultInfo.cs" />
+    <Compile Include="HttpRequest\Common\Constants.cs" />
+    <Compile Include="HttpRequest\Common\ErrorResponse.cs" />
+    <Compile Include="HttpRequest\Common\Geo.cs" />
+    <Compile Include="HttpRequest\Common\GeoPoint.cs" />
+    <Compile Include="HttpRequest\Common\HpyerLink.cs" />
+    <Compile Include="HttpRequest\Common\HttpMethod.cs" />
+    <Compile Include="HttpRequest\Common\IResponseErrorHandler.cs" />
+    <Compile Include="HttpRequest\Common\LocalErrorCode.cs" />
+    <Compile Include="HttpRequest\Common\ParamCollection.cs" />
+    <Compile Include="HttpRequest\Common\ParamPair.cs" />
+    <Compile Include="HttpRequest\Common\ResponseErrorData.cs" />
+    <Compile Include="HttpRequest\Common\ResponseErrorEventArgs.cs" />
+    <Compile Include="HttpRequest\Common\RFC3986Encoder.cs" />
+    <Compile Include="HttpRequest\Common\Source.cs" />
+    <Compile Include="HttpRequest\Common\UnreadInfo.cs" />
+    <Compile Include="HttpRequest\Common\WordService.cs" />
+    <Compile Include="HttpRequest\HttpGet.cs" />
+    <Compile Include="HttpRequest\HttpPost.cs" />
+    <Compile Include="HttpRequest\HttpRequest.cs" />
+    <Compile Include="HttpRequest\IHttpRequest.cs" />
+    <Compile Include="HttpRequest\MultiPartField.cs" />
+    <Compile Include="HttpRequest\MultiPartHttpPost.cs" />
+    <Compile Include="HttpRequest\NetworkState.cs" />
+    <Compile Include="HttpRequest\ProxyIP.cs" />
+    <Compile Include="Json\JsonHelper.cs" />
+    <Compile Include="Memcached\LyMemcachedClient.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="DataUtil\DataConverter.cs" />
+    <Compile Include="DataUtil\DataValidator.cs" />
+    <Compile Include="WebExtensions\BaseMessage.cs" />
+    <Compile Include="WebExtensions\BaseResult.cs" />
+    <Compile Include="WebExtensions\ComNode.cs" />
+    <Compile Include="WebExtensions\DataResult.cs" />
+    <Compile Include="WebExtensions\ExceptionResult.cs" />
+    <Compile Include="WebExtensions\GridData.cs" />
+    <Compile Include="WebExtensions\GridMessage.cs" />
+    <Compile Include="WebExtensions\TreeNode.cs" />
+    <Compile Include="Xml\XmlHelper.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

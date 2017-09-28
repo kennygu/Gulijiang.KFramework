@@ -1,0 +1,16 @@
+E:\KennyShoery\My\Gulijiang\Gulijiang.KFramework\Gulijiang.KFramework.DataIbatis\bin\Debug\Gulijiang.KFramework.DataIbatis.dll
+E:\KennyShoery\My\Gulijiang\Gulijiang.KFramework\Gulijiang.KFramework.DataIbatis\bin\Debug\Gulijiang.KFramework.DataIbatis.pdb
+E:\KennyShoery\My\Gulijiang\Gulijiang.KFramework\Gulijiang.KFramework.DataIbatis\bin\Debug\IBatisNet.Common.dll
+E:\KennyShoery\My\Gulijiang\Gulijiang.KFramework\Gulijiang.KFramework.DataIbatis\bin\Debug\IBatisNet.DataAccess.dll
+E:\KennyShoery\My\Gulijiang\Gulijiang.KFramework\Gulijiang.KFramework.DataIbatis\bin\Debug\IBatisNet.DataMapper.dll
+E:\KennyShoery\My\Gulijiang\Gulijiang.KFramework\Gulijiang.KFramework.DataIbatis\obj\Debug\Gulijiang.KFramework.DataIbatis.dll
+E:\KennyShoery\My\Gulijiang\Gulijiang.KFramework\Gulijiang.KFramework.DataIbatis\obj\Debug\Gulijiang.KFramework.DataIbatis.pdb
+E:\KennyShoery\My\Gulijiang\Gulijiang.KFramework\Gulijiang.KFramework.DataIbatis\obj\Debug\Gulijiang.KFramework.DataIbatis.csprojResolveAssemblyReference.cache
+E:\KennySheory\My\Gulijiang\Gulijiang.KFramework\Gulijiang.KFramework.DataIbatis\bin\Debug\Gulijiang.KFramework.DataIbatis.dll
+E:\KennySheory\My\Gulijiang\Gulijiang.KFramework\Gulijiang.KFramework.DataIbatis\bin\Debug\Gulijiang.KFramework.DataIbatis.pdb
+E:\KennySheory\My\Gulijiang\Gulijiang.KFramework\Gulijiang.KFramework.DataIbatis\bin\Debug\IBatisNet.Common.dll
+E:\KennySheory\My\Gulijiang\Gulijiang.KFramework\Gulijiang.KFramework.DataIbatis\bin\Debug\IBatisNet.DataAccess.dll
+E:\KennySheory\My\Gulijiang\Gulijiang.KFramework\Gulijiang.KFramework.DataIbatis\bin\Debug\IBatisNet.DataMapper.dll
+E:\KennySheory\My\Gulijiang\Gulijiang.KFramework\Gulijiang.KFramework.DataIbatis\obj\Debug\Gulijiang.KFramework.DataIbatis.csprojResolveAssemblyReference.cache
+E:\KennySheory\My\Gulijiang\Gulijiang.KFramework\Gulijiang.KFramework.DataIbatis\obj\Debug\Gulijiang.KFramework.DataIbatis.dll
+E:\KennySheory\My\Gulijiang\Gulijiang.KFramework\Gulijiang.KFramework.DataIbatis\obj\Debug\Gulijiang.KFramework.DataIbatis.pdb
