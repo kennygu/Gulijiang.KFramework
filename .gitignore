@@ -1,0 +1,18 @@
+﻿# 此为仓库层级 .gitignore 文件，定义团队级别的仓库文件管理规范
+#
+#      Author: kenny gu
+# Last Update: 2017-9-28
+
+# 忽略  C# projects
+[Oo]bj
+[Bb]in
+*.user
+*.suo
+*.[Cc]ache
+*.bak
+*.ncb
+*.log 
+*.DS_Store
+[Tt]humbs.db 
+_ReSharper.*
+*.resharper
